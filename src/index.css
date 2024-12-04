@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-100;
+}
+
+.hide-scrollbar::-webkit-scrollbar{
+display: none;
+}
+
+main{
+    background: linear-gradient(45deg, red, blue);
+  }
+
+  li{
+    cursor: pointer;
+  }
+
