@@ -1,3 +1,5 @@
+Scalability: Built for Growth: Scalable architecture to handle increasing user demands.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
